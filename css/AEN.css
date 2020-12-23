@@ -1,0 +1,237 @@
+.error
+{
+    display: none ;
+}
+
+#errors
+{
+    font-size: 1rem;
+    width: 100%;
+}
+
+.search_bar
+{
+    float: left;
+    margin-right: 20px;
+}
+
+.search_title
+{
+    display: inline-block;
+    float: left;
+    margin-right: 20px ;
+}
+
+.firstname_search
+{
+    width: 17%;
+}
+
+.lastname_search
+{
+    width: 18%;
+}
+
+.email_search
+{
+    width: 18%;
+}
+
+.based_search
+{
+    width: 10%;
+}
+
+.state_search
+{
+    width: 10%;
+}
+
+.button_search
+{
+    width: 5%;
+}
+
+.no-found
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: table;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    background: #ff9158;
+    border: 1px orange;
+    border-radius: 10px;
+}
+
+.no-found p
+{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 3rem;
+}
+
+.profil_block
+{
+    background: #1c606a;
+}
+
+.right_block
+{
+    display: inline-block;
+    float: right;
+}
+
+.left_block
+{
+    display: inline-block;
+}
+
+.title
+{
+    padding-top: 20px;
+}
+
+.h5
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.profil_block p
+{
+    display: inline-block;
+
+}
+
+.button
+{
+    border-radius: 10px;
+    border : solid black;
+}
+
+.validation-button
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.hide
+{
+    display: none;
+}
+
+#overlay
+{
+    display: none;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+#role_n_basement_block
+{
+    display: none;
+    padding : 20px;
+    background-color: white;
+    position: absolute;
+    top:150px;
+    left : 150px;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.ressources_button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 3rem;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    border: solid black;
+}
+
+.ressources_button:hover
+{
+    background-color: #5985ff;
+}
+
+.ressources_button_bis
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    border: solid black;
+}
+
+#table_ressources
+{
+    max-height: 400px;
+    width: 100%;
+}
+
+.ressources_right_block
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.half-ressources
+{
+    background-color: #384c97;
+    border-radius: 10px;
+}
+
+.validation-modif_ressources
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#modif_block
+{
+    display: none;
+}
+
+#create_block
+{
+    display: none;
+}
+
+.aeroclub_services
+{
+    margin : auto;
+    padding-top: 30px;
+    width: 80%;
+}
+
+.table_services
+{
+    width: 80%;
+}
+
+#basket_button
+{
+    width: 100px;
+}
+
+#basket_block
+{
+    margin: auto;
+    background-color: #af0008;
+}
+
